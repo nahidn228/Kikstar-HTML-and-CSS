@@ -72,6 +72,13 @@ img{
   font-size: small;
   font-weight: 200;
 }
-.button{
-  background-color: tomato;
+.scocial-icn{
+  background-color: rgb(218, 180, 174);
+  height: 20px;
+  width: 20px;
+  margin: 0 5px;
+}
+.scocial-icn:hover{
+  cursor: pointer;
+  background-color:tomato;
 }
