@@ -27,7 +27,7 @@ h3:hover{
 .btn-section{
   margin-left: auto;
   background-color:  tomato;
-  height: 10vh;
+  /* height: 10vh; */
   width: 400px;
   padding: 10px 0 0 20px;
   border-bottom-left-radius: 5vh;
